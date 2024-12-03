@@ -24,3 +24,9 @@ At this moment the Simon Says game shows a sequence and then allows the user to 
 
 * Asher Owens - Electrical Engineering Major - Coder and RGB LED and Button Circuit builder
 * Hayden Hobgood -Computer Engineering Major - Coder and LCD Screen and Buzzer builder
+
+## Repo Guide
+* Design Files - Code for whole System
+* Documentation - Project Reports
+* Photos and Videos
+* Simulated Files - All the simulations used to create the game
