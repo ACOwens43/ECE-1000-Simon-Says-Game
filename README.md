@@ -14,11 +14,10 @@ At this moment the Simon Says game shows a sequence and then allows the user to 
 * LCD screen coded to keep score of the user
 * LCD coded to say game over or start game
 
-## Photos and Videos
-
-### System Demo
+## Photos
 
 ### System Photo
+https://github.com/ACOwens43/ECE-1000-Simon-Says-Game/blob/main/Photos/IMG_4921.JPG
 
 ## Who are we
 
